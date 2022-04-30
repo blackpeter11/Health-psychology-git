@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 13,
+  "prettier.jsxBracketSameLine": true,
+  "files.associations": {
+    "*.rmd": "markdown",
+    "*.js": "javascriptreact"
+  },
+  "prettier.requirePragma": true,
+  "prettier.resolveGlobalModules": false
+}
